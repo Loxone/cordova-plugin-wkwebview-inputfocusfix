@@ -16,7 +16,6 @@
 		<config-file parent="/*" target="config.xml">
 			<feature name="WKWebViewInputFocusFix">
 				<param name="ios-package" value="WKWebViewInputFocusFix" />
-				<param name="onload" value="true" />
 			</feature>
 		</config-file>
 
